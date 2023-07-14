@@ -1,0 +1,34 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    
+    &__ul{
+        display: flex;
+        list-style: none;
+        align-items: center;
+    }
+
+    &__li{
+        margin: 10px;
+    }
+
+    &__li a{
+        text-decoration: none;
+    }
+
+    &__li a:hover{
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+
+    &__li .icones:hover{
+        transform: scale(1.2);
+        color: #FFFFFF !important;
+    }
+    
+}
+
+.icones{
+    color: #FFFFFF !important;
+}
