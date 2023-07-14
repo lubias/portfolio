@@ -1,6 +1,6 @@
 .Button{
-    border: 2px solid #c9284e;
-    color: #c9284e;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
     padding: 10px;
     border-radius: 14px;
     font-weight: bolder;
@@ -10,8 +10,8 @@
 
 .Button:hover{
     //background-color: #D96882;
-    color: #FFFFFF;
+    color: #d9be80;
     transform: translateY(-7px);
     transition-duration: 0.5s;
-    border: 2px solid #FFFFFF;
+    border: 2px solid #d9be80;
 }

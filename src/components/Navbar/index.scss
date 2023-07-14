@@ -18,17 +18,12 @@
     }
 
     &__li a:hover{
-        color: #FFFFFF;
+        color: #d9be80;
         text-decoration: none;
     }
 
     &__li .icones:hover{
         transform: scale(1.2);
-        color: #FFFFFF !important;
     }
     
-}
-
-.icones{
-    color: #FFFFFF !important;
 }
