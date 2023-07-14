@@ -1,7 +1,8 @@
 import React from "react";
+import ButtonRed from "../ButtonRed/ButtonRed";
 
 function Projects() {
-  return <div id="Projects"></div>;
+  return <ButtonRed text="Teste" link="https://github.com/lubias"/>;
 }
 
 export default Projects;

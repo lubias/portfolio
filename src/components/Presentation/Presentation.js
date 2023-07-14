@@ -8,7 +8,7 @@ function Presentation() {
         <img src="images/foto_perfil.jpg" />
       </div>
       <div>
-        <h4>Bem-vindo ao meu Portfólio</h4>
+        <h4>Bem-vindo(a) ao meu Portfólio</h4>
         <h1>Olá, eu sou Luana Beatriz</h1>
         <p>
           Sou graduada em Design de Jogos Digitas, mas sempre busquei me <br />
