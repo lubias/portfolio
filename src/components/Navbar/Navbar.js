@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './index.scss';
+import './index.scss';
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import Nav from 'react-bootstrap/Nav';
 
