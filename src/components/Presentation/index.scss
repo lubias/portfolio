@@ -1,7 +1,9 @@
 .Presentation{
     text-align: left;
     margin-left: 10%;
-    display: flex;
+    margin-right: 10%;
+    display: grid;
+    grid-auto-flow: column;
     align-items: center;
 
     &__div-image{
@@ -21,5 +23,9 @@
 
     h4{
         font-size: 1.4rem !important;
+    }
+
+    p{
+        text-align: justify;
     }
 }

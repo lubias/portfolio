@@ -6,10 +6,10 @@
     font-weight: bolder;
     cursor: pointer;
     width: 120px;
+    background-color: transparent;
 }
 
 .Button:hover{
-    //background-color: #D96882;
     color: #d9be80;
     transform: translateY(-7px);
     transition-duration: 0.5s;

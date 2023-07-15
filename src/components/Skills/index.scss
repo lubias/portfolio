@@ -10,6 +10,18 @@
         justify-content: space-evenly;
     }
 
+    &__div-icon{
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__div-icon-js:hover #spanJS, &__div-icon-html:hover #spanHTML,
+    &__div-icon-css:hover #spanCSS, &__div-icon-react:hover #spanReact,
+    &__div-icon-nodejs:hover #spanNodeJS, &__div-icon-php:hover #spanPHP,
+    &__div-icon-github:hover #spanGitHub, &__div-icon-unity:hover #spanUnity{
+        opacity: 1;
+    }
+
     &__h1{
         font-size: 2rem;
         text-align: center;
@@ -25,4 +37,10 @@
         transform: scale(1.2);
         color: white;
     }
+}
+
+#spanJS, #spanHTML, #spanCSS, #spanReact, #spanNodeJS, #spanPHP, #spanGitHub, #spanUnity{
+    opacity: 0;
+    margin-top: 10px;
+    text-align: center;
 }

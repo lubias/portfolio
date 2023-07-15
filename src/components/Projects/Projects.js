@@ -1,8 +1,9 @@
 import React from "react";
-import ButtonRed from "../ButtonRed/ButtonRed";
+import ButtonYellow from "../ButtonYellow/ButtonYellow";
+import './index.scss';
 
 function Projects() {
-  return <ButtonRed text="Teste" link="https://github.com/lubias"/>;
+  return <ButtonYellow text="Teste" link="https://github.com/lubias"/>;
 }
 
 export default Projects;
