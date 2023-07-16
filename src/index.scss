@@ -8,6 +8,11 @@ body {
   background-color: #222731;
 }
 
+html{
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
 a, p, h1, h2, h3, h4, span{
   color: #FFFFFF;
 }

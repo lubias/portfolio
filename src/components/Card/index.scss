@@ -1,0 +1,58 @@
+.Card{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+    &__imagem{
+        height: 250px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+
+    &__div-informacoes{
+        height: 250px;
+        padding: 15px 25px 15px 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        margin-left: 25px;
+        width: 100%;
+    }
+
+    &__titulo{
+        font-size: 1.5rem;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }
+
+    &__descricao{
+        margin: 0px;
+    }
+
+    &__label-skills{
+        margin: 0px;
+        font-weight: bold;
+    }
+
+    &__skills{
+        display: flex;
+        list-style: none;
+        margin-bottom: 15px;
+        margin-top: 15px;
+
+        span{
+            margin-right: 15px;
+        }
+    }
+
+    &__div-botoes{
+        display: flex;
+
+        button{
+            margin-right: 20px;
+        }
+    }
+}
