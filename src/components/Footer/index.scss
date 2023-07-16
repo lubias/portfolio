@@ -1,0 +1,18 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    ul, p{
+        margin: 25px;
+    }
+
+    a{
+        text-decoration: none;
+    }
+
+    a:hover{
+        color: #d9be80;
+        text-decoration: none;
+    }
+}
