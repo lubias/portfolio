@@ -30,10 +30,10 @@ function Navbar() {
           <Nav.Link href="#Presentation">{t("Apresentação")}</Nav.Link>
         </li>
         <li className="Navbar__li">
-          <Nav.Link href="#Skills">Habilidades</Nav.Link>
+          <Nav.Link href="#Skills">{t("Habilidades")}</Nav.Link>
         </li>
         <li className="Navbar__li">
-          <Nav.Link href="#Projects">Projetos</Nav.Link>
+          <Nav.Link href="#Projects">{t("Projetos")}</Nav.Link>
         </li>
       </ul>
       <ul className="Navbar__ul">

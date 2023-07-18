@@ -1,5 +1,22 @@
 {
     "translation":{
-        "Apresentação":"Presentation"
+        "Apresentação":"Presentation",
+        "Habilidades":"Skills",
+        "Projetos":"Projects",
+        "Bem_vindo":"Welcome to my Portfolio",
+        "Ola":"Hello, I'm Luana Beatriz",
+        "Bio_1":"I have a degree in Digital Game Design, but I have always sought to develop myself in the area of ​​programming. I worked for 8 months as a web developer previously, working mainly with wordpress.",
+        "Bio_2":"And since August 2021 I'm working as a fullstack web developer working mainly with HTML, CSS, Javascript and PHP.",
+        "Bio_3":"I'm also doing a fullstack training in technology at DNC ​​school, looking to learn new technologies, mainly React.js and Node.js.",
+        "Habilidades_descrição":"Know my main skills",
+        "Tecnologias":"Technologies",
+        "Titulo_projeto_1":"BoardTask - Backend",
+        "Descição_projeto_1":"Board Task Backend Express.js project made for the DNC school course.",
+        "Titulo_projeto_2":"DNC Movie List",
+        "Descição_projeto_2":"Project developed in the React module with Hooks from Escola DNC.",
+        "Titulo_projeto_3":"Landing Page Architecture",
+        "Descição_projeto_3":"Resolution of challenge 1 of the DNC School's technology training.",
+        "Link_para_projeto":"Link to the project",
+        "Acesse_repositorio":"Access the repository"
     }
 }

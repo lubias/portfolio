@@ -1,14 +1,16 @@
-import React from 'react';
 import './index.scss';
 import { FaUnity, FaJs, FaHtml5, FaCss3, FaReact, FaNodeJs, FaPhp, FaGithub } from 'react-icons/fa';
+import { useTranslation } from "react-i18next";
 
 function Skils() {
-
+  const {
+    t
+  } = useTranslation();
 
   return (
     <div id="Skills" className='Skills'>
-      <h1 className='Skills__h1'>Habilidades</h1>
-      <p className='Skills__p'>Conheça minhas principais habilidades</p>
+      <h1 className='Skills__h1'>{t("Habilidades")}</h1>
+      <p className='Skills__p'>{t("Habilidades_descrição")}</p>
       <div className='Skills__div-icons'>
         <div className='Skills__div-icon Skills__div-icon-js'>
           <FaJs size={70} color='#F7DF1E' className='Skills__icones'/>
