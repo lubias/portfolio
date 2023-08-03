@@ -1,6 +1,6 @@
 export const PROJECTS_MOCK = [
     {
-        "imagem":"images/projects/BibliotecaDNCBack.png",
+        "imagem":"images/projects/BackEnd_Biblioteca.png",
         "titulo": "Titulo_Biblioteca_Back",
         "descricao": "Descrição_Biblioteca_Back",
         "tecnologias": "NodeJS, Express",
@@ -8,7 +8,7 @@ export const PROJECTS_MOCK = [
         "link_repositorio": "https://github.com/lubias/api_biblioteca",
     },
     {
-        "imagem":"images/projects/BibliotecaDNCFront.png",
+        "imagem":"images/projects/FrontEnd_Biblioteca.png",
         "titulo": "Titulo_Biblioteca_Front",
         "descricao": "Descrição_Biblioteca_Front",
         "tecnologias": "ReactJS, ViteJS, SASS",
