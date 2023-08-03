@@ -11,8 +11,8 @@ function Projects() {
       <h1 className="Projects__h1">{t("Projetos")}</h1>
       <Card
         imagem="images/projects/BoardTask_Backend.png"
-        titulo={t("Titulo_projeto_1")}
-        descricao={t("Descição_projeto_1")}
+        titulo={t("Titulo_BoardTask")}
+        descricao={t("Descrição_BoardTask")}
         tecnologias="NodeJS, Express"
         link_projeto="https://board-task-back.vercel.app/doc/"
         link_repositorio="https://github.com/lubias/boardTask-Back"
