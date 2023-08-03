@@ -1,6 +1,7 @@
 import "./index.scss";
 import Card from "../Card/Card";
 import { useTranslation } from "react-i18next";
+import ButtonYellow from "../ButtonYellow/ButtonYellow";
 
 function Projects() {
   const { t } = useTranslation();
@@ -32,6 +33,7 @@ function Projects() {
         link_projeto="https://desafio-1-resolucao.netlify.app/"
         link_repositorio="https://github.com/lubias/desafio-1-resolucao"
       />
+      <div className="Projects__div-button"><ButtonYellow text={t("Veja mais projetos")} link={"/projetos"} target="_self" /></div>
       <br />
     </div>
   );

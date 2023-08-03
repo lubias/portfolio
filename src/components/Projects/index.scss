@@ -6,4 +6,12 @@
     &__h1{
         font-size: 2rem;
     }
+
+    &__div-button{
+        width: 100%;
+
+        button{
+            float: right !important;
+        }
+    }
 }

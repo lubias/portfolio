@@ -1,9 +1,9 @@
 import React from 'react'
 import "./index.scss";
 
-function ButtonYellow({ text, link }) {
+function ButtonYellow({ text, link, target="_blank" }) {
   return (
-    <a href={link} target='_blank'><button className='Button'>{text}</button></a>
+    <a href={link} target={target}><button className='Button'>{text}</button></a>
   )
 }
 

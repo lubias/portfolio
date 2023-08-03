@@ -10,6 +10,7 @@
     height: 75px;
     margin-bottom: 25px;
     box-shadow: 0 3px 40px -1px rgba(0, 0, 0, 0.45);
+    z-index: 99;
 
     &__ul {
       display: flex;
@@ -36,6 +37,12 @@
 
     &__flag-language{
       width: 40px;
+      margin-right: 50px;
+    }
+
+    &__logo{
+      height: 100%;
+      margin-left: 50px;
     }
   }
 //}

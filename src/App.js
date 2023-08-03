@@ -1,11 +1,7 @@
 import "./App.css";
-import Navbar from "./components/Navbar/Navbar";
-import Presentation from "./components/Presentation/Presentation";
-import Projects from "./components/Projects/Projects";
-import Skils from "./components/Skills/Skills";
-import Footer from "./components/Footer/Footer";
 import {Helmet} from "react-helmet";
 import { useTranslation } from "react-i18next";
+import Home from "./views/Home/Home";
 
 function App() {
   const { t } = useTranslation();
@@ -18,11 +14,7 @@ function App() {
           <title>{t("Titulo_do_site")}</title>
           <link rel="canonical" href="http://mysite.com/example" />
         </Helmet>
-      <Navbar />
-      <Presentation />
-      <Skils />
-      <Projects />
-      <Footer />
+        <Home />
     </div>
   );
 }
