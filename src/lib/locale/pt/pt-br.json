@@ -11,10 +11,6 @@
         "Bio_3":" Também estou fazendo uma formação fullstack em tecnologia pela escola DNC, em busca de aprender novas tecnologias, principalmente React.js e Node.js.",
         "Habilidades_descrição":"Conheça minhas principais habilidades",
         "Tecnologias":"Tecnologias",
-        "Titulo_projeto_2":"DNC Movie List",
-        "Descição_projeto_2":"Projeto desenvolvido no módulo de React com Hooks da Escola DNC.",
-        "Titulo_projeto_3":"Landing Page Arquitetura",
-        "Descição_projeto_3":"Resolução do desafio 1 da formação de tecnologia da Escola DNC.",
         "Link_para_projeto":"Link para o projeto",
         "Acesse_repositorio":"Acesse o repositório",
         "Veja mais projetos":"Veja mais projetos",
@@ -23,6 +19,10 @@
         "Titulo_Biblioteca_Front":"Biblioteca - Frontend",
         "Descrição_Biblioteca_Front":"Projeto em React com API em Node.",
         "Titulo_BoardTask":"BoardTask - Backend",
-        "Descrição_BoardTask":"Projeto em Express.js do BoardTask Back-end feito para o curso da escola DNC."
+        "Descrição_BoardTask":"Projeto em Express.js do BoardTask Back-end feito para o curso da escola DNC.",
+        "Titulo_Movie_List":"DNC Movie List",
+        "Descrição_Movie_List":"Projeto desenvolvido no módulo de React com Hooks da Escola DNC.",
+        "Titulo_LP_Arquitetura":"Landing Page Arquitetura",
+        "Descrição_LP_Arquitetura":"Resolução do desafio 1 da formação de tecnologia da Escola DNC."
     }
 }

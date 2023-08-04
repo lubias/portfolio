@@ -19,16 +19,16 @@ function Projects() {
       />
       <Card
         imagem="images/projects/DNC_Movie_List.png"
-        titulo={t("Titulo_projeto_2")}
-        descricao={t("Descição_projeto_2")}
+        titulo={t("Titulo_Movie_List")}
+        descricao={t("Descrição_Movie_List")}
         tecnologias="React, HTML, SASS"
         link_projeto="https://lista-de-filmes-alpha.vercel.app/"
         link_repositorio="https://github.com/lubias/lista-de-filmes"
       />
       <Card
         imagem="images/projects/Landing_Page_Arquitetura.png"
-        titulo={t("Titulo_projeto_3")}
-        descricao={t("Descição_projeto_3")}
+        titulo={t("Titulo_LP_Arquitetura")}
+        descricao={t("Descrição_LP_Arquitetura")}
         tecnologias="HTML, CSS"
         link_projeto="https://desafio-1-resolucao.netlify.app/"
         link_repositorio="https://github.com/lubias/desafio-1-resolucao"
