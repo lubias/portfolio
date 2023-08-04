@@ -3,6 +3,8 @@ import Navbar from "../../components/Navbar/Navbar"
 import Presentation from "../../components/Presentation/Presentation"
 import Projects from "../../components/Projects/Projects"
 import Skils from "../../components/Skills/Skills"
+import { PROJECTS_HOME_MOCK } from "../../mocks/projetos_home.mock"
+
 
 function Home() {
   return (
@@ -10,7 +12,7 @@ function Home() {
         <Navbar />
         <Presentation />
         <Skils />
-        <Projects />
+        <Projects data={PROJECTS_HOME_MOCK} />
         <Footer />
     </div>
   )

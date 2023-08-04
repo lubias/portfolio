@@ -14,4 +14,10 @@
             float: right !important;
         }
     }
+
+    &__div-button-margin{
+        button{
+            margin-right: 15px;
+        }
+    }
 }
