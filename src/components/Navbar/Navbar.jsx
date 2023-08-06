@@ -24,7 +24,7 @@ function Navbar() {
 
   return (
     <div className="Navbar">
-      <div><Nav.Link href="/"><img id="logo" className="Navbar__logo" src="images/Logo_sem_fundo_branco.png" /></Nav.Link></div>
+      <div className="Navbar__div-logo"><Nav.Link href="/"><img id="logo" className="Navbar__logo" src="images/Logo_sem_fundo_branco.png" /></Nav.Link></div>
       <ul className="Navbar__ul">
         <li className="Navbar__li">
           <Nav.Link href="#Presentation">{t("Apresentação")}</Nav.Link>

@@ -12,6 +12,10 @@
     box-shadow: 0 3px 40px -1px rgba(0, 0, 0, 0.45);
     z-index: 99;
 
+    &__div-logo{
+      width: 10%;
+    }
+
     &__ul {
       display: flex;
       list-style: none;
