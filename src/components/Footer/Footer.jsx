@@ -1,4 +1,4 @@
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa";
 import './index.scss';
 
 function Footer() {
@@ -16,6 +16,11 @@ function Footer() {
         <li className="Navbar__li">
           <a href="https://github.com/lubias" target="_blank">
             <FaGithub size={30} className="icones" />
+          </a>
+        </li>
+        <li className="Navbar__li">
+          <a href="https://wa.me/351966483459" target="_blank">
+            <FaWhatsapp size={30} className="icones" />
           </a>
         </li>
       </ul>
