@@ -3,7 +3,7 @@ export const PROJECTS_HOME_MOCK = [
         "imagem":"images/projects/BackEnd_Biblioteca.png",
         "titulo": "Titulo_Biblioteca_Back",
         "descricao": "Descrição_Biblioteca_Back",
-        "tecnologias": "NodeJS, Express",
+        "tecnologias": "NodeJS, Express, MongoDB",
         "link_projeto": "https://api-biblioteca-dnc.vercel.app/doc/",
         "link_repositorio": "https://github.com/lubias/api_biblioteca",
     },
@@ -11,7 +11,7 @@ export const PROJECTS_HOME_MOCK = [
         "imagem":"images/projects/BoardTask_Backend.png",
         "titulo": "Titulo_BoardTask",
         "descricao": "Descrição_BoardTask",
-        "tecnologias": "NodeJS, Express",
+        "tecnologias": "NodeJS, Express, MongoDB",
         "link_projeto": "https://board-task-back.vercel.app/doc/",
         "link_repositorio": "https://github.com/lubias/boardTask-Back",
     },
@@ -25,8 +25,8 @@ export const PROJECTS_HOME_MOCK = [
     },
     {
         "imagem":"images/projects/Landing_Page_Arquitetura.png",
-        "titulo": "Titulo_Movie_List",
-        "descricao": "Descrição_Movie_List",
+        "titulo": "Titulo_LP_Arquitetura",
+        "descricao": "Descrição_LP_Arquitetura",
         "tecnologias": "HTML, CSS",
         "link_projeto": "https://desafio-1-resolucao.netlify.app/",
         "link_repositorio": "https://github.com/lubias/desafio-1-resolucao"

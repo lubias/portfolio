@@ -16,14 +16,14 @@
         "Ver_mais_projetos":"Ver mais projetos",
         "Ver_repositório_completo":"Ver repositório completo",
         "Titulo_Biblioteca_Back":"Biblioteca - Backend",
-        "Descrição_Biblioteca_Back":"Resolução do Desafio 5 da formação de tecnologia da Escola DNC.",
+        "Descrição_Biblioteca_Back":"Neste projeto foi desenvolvida uma API para criar, editar, listar e deletar livros de um banco de dados desenvolvido em MongoDB. Em paralelo foi desenvolvido um projeto front-end que faz a integração com essa API. Também foi realizada a integração do projeto back-end com o swagger para gerar a documentação.",
         "Titulo_Biblioteca_Front":"Biblioteca - Frontend",
-        "Descrição_Biblioteca_Front":"Projeto em React com API em Node.",
+        "Descrição_Biblioteca_Front":"Projeto front-end desenvolvido para listar, criar, editar e excluir livros de uma biblioteca. Em paralelo foi desenvolvida uma API para fazer as alterações no banco de dados que foi desenvolvido em MongoDB.",
         "Titulo_BoardTask":"BoardTask - Backend",
-        "Descrição_BoardTask":"Projeto em Express.js do BoardTask Back-end feito para o curso da escola DNC.",
+        "Descrição_BoardTask":"Neste projeto foi desenvolvida uma API para criar, editar, listar e deletar usuários e tarefas de um boardtask. Também foi realizada a integração do projeto com o swagger para gerar a documentação.",
         "Titulo_Movie_List":"DNC Movie List",
-        "Descrição_Movie_List":"Projeto desenvolvido no módulo de React com Hooks da Escola DNC.",
+        "Descrição_Movie_List":"Projeto front-end desenvolvido em React para listar filmes. Para isso foi realizada a integração com a API The Movie DB, para listar todos os filmes e também filtrar filmes por trechos do nome e também mostrar detalhes dos filmes selecionados pelo utilizador.",
         "Titulo_LP_Arquitetura":"Landing Page Arquitetura",
-        "Descrição_LP_Arquitetura":"Resolução do desafio 1 da formação de tecnologia da Escola DNC."
+        "Descrição_LP_Arquitetura":"Lading page desenvolvida com o intuito de aplicar os conhecimentos básicos de HTML e CSS adquiridos no primeiro módulo da formação em Tecnologia da Escola DNC."
     }
 }

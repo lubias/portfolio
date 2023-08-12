@@ -16,14 +16,14 @@
         "Ver_mais_projetos":"See more projects",
         "Ver_repositório_completo":"See full repository",
         "Titulo_Biblioteca_Back":"Library - Backend",
-        "Descrição_Biblioteca_Back":"Resolution of Challenge 5 of the DNC School's technology training.",
+        "Descrição_Biblioteca_Back":"In this project an API was developed to create, edit, list and delete books from a database developed in MongoDB. In parallel, a front-end project was developed that integrates with this API. The back-end project was also integrated with Swagger to generate the documentation.",
         "Titulo_Biblioteca_Front":"Library - Frontend",
-        "Descrição_Biblioteca_Front":"Project in React with API in Node.",
+        "Descrição_Biblioteca_Front":"Front-end project designed to list, create, edit and delete books from a library. In parallel, an API was developed to make changes to the database that was developed in MongoDB.",
         "Titulo_BoardTask":"BoardTask - Backend",
-        "Descrição_BoardTask":"Board Task Backend Express.js project made for the DNC school course.",
+        "Descrição_BoardTask":"This project developed an API to create, edit, list and delete users and tasks from a boardtask. The project was also integrated with Swagger to generate the documentation.",
         "Titulo_Movie_List":"DNC Movie List",
-        "Descrição_Movie_List":"Project developed in the React module with Hooks from Escola DNC.",
+        "Descrição_Movie_List":"Front-end project developed in React to list movies. For this, it was performed the integration with the API The Movie DB, to list all the movies and filter movies by parts of the name and show details of the movies selected by the user.",
         "Titulo_LP_Arquitetura":"Landing Page Architecture",
-        "Descrição_LP_Arquitetura":"Resolution of challenge 1 of the DNC School's technology training."
+        "Descrição_LP_Arquitetura":"Lading page developed with the intention of applying the basic knowledge of HTML and CSS acquired in the first module of training in Technology of the DNC School."
     }
 }
