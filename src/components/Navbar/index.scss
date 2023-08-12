@@ -37,11 +37,13 @@
 
     &__li .icones:hover {
       transform: scale(1.2);
+      transition-duration: 0.4s;
     }
 
     &__flag-language{
       width: 40px;
       margin-right: 50px;
+      cursor: pointer;
     }
 
     &__logo{

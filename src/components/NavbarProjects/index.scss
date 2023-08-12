@@ -33,6 +33,7 @@
 
   &__li .icones:hover {
     transform: scale(1.2);
+    transition-duration: 0.4s;
   }
 
   &__flag-language {
