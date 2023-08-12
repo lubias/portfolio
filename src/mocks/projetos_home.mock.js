@@ -22,5 +22,13 @@ export const PROJECTS_HOME_MOCK = [
         "tecnologias": "React, HTML, SASS",
         "link_projeto": "https://lista-de-filmes-alpha.vercel.app/",
         "link_repositorio": "https://github.com/lubias/lista-de-filmes",
+    },
+    {
+        "imagem":"images/projects/Landing_Page_Arquitetura.png",
+        "titulo": "Titulo_Movie_List",
+        "descricao": "Descrição_Movie_List",
+        "tecnologias": "HTML, CSS",
+        "link_projeto": "https://desafio-1-resolucao.netlify.app/",
+        "link_repositorio": "https://github.com/lubias/desafio-1-resolucao"
     }
 ]
