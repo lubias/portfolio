@@ -33,8 +33,8 @@ export const PROJECTS_MOCK = [
     },
     {
         "imagem":"images/projects/Landing_Page_Arquitetura.png",
-        "titulo": "Titulo_Movie_List",
-        "descricao": "Descrição_Movie_List",
+        "titulo": "Titulo_LP_Arquitetura",
+        "descricao": "Descrição_LP_Arquitetura",
         "tecnologias": "HTML, CSS",
         "link_projeto": "https://desafio-1-resolucao.netlify.app/",
         "link_repositorio": "https://github.com/lubias/desafio-1-resolucao"
